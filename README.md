@@ -1,5 +1,4 @@
 # curso-front-end
-
 # Git
 ## Versionamento
 -Historico
@@ -15,6 +14,9 @@ Arquivo A | Versao 1 | versao 2
 Arquivo B | versao 1 | versao 2
 
 ## Instalação do Git 
+windows:https://git-scm.com/download/win
+linux (apr-get):tudo apt-get install git
+mac (brew) brew install git
 
 ## Criar conta no Github
 
@@ -26,5 +28,4 @@ Informação de alterções
  
 ## Gitflow
 fluxo do Git
-
 
